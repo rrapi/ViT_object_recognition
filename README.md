@@ -1,2 +1,2 @@
-# ViT_object_recognition
+# ViT
 ViT model for Object Recognition
